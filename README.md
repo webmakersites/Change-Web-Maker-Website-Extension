@@ -1,3 +1,3 @@
-# Create a Chrome extension to modify a website's HTML or CSS
+# Change-Web-Maker-Website-Extension
 
-See post: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
+This Chrome Extension Changes Web Maker Dashboard Home Page
